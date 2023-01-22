@@ -2,6 +2,7 @@
     <a href="https://github.com/c4mpos-dev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c4mpos-dev&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4mpos-dev&layout=compact&langs_count=7&theme=darcula"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=c4mpos-dev&theme=dark"/>
 </div>
 
 ---
@@ -24,5 +25,5 @@
 
 ---
 
-  <a href="https://instagram.com/c4mp02" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:campos.eet@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/c4mp02" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:campos.eet@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
