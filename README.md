@@ -2,7 +2,6 @@
     <a href="https://github.com/c4mpos-dev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c4mpos-dev&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4mpos-dev&layout=compact&langs_count=7&theme=darcula"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=c4mpos-dev&theme=dark"/>
 </div>
 
 ---
