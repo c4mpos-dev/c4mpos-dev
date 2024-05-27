@@ -1,13 +1,12 @@
-<div align="center">
+ <div align="center">
     <a href="https://github.com/c4mpos-dev">        
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4mpos-dev&layout=compact&langs_count=7&theme=darcula"/>
 </div>
 
 ---
 
-- 🔭 Meu principal objetivo é a criação de APPs/Jogos.
+- 🔭 Cursando Engenharia de Software.
 - 🌱 Explorando as áreas da tecnologia.
-- ⚡ No meu tempo livre tento realizar projetos para ter os fundamentos necessários sobre tal linguagem.
 
 ---
 
