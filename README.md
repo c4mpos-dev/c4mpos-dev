@@ -5,7 +5,7 @@
 
 ---
 
-- 🔭 Cursando Engenharia de Software.
+- 🔭 Cursando Engenharia de Software no INATEL.
 - 🌱 Explorando as áreas da tecnologia.
 
 ---
