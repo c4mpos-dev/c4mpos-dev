@@ -3,13 +3,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4mpos-dev&layout=compact&langs_count=7&theme=darcula"/>
 </div>
 
----
-
-- 🔭 Cursando Engenharia de Software no INATEL.
-- 🌱 Explorando as áreas da tecnologia.
-
----
-
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>&nbsp;
