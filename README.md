@@ -22,11 +22,5 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
   ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-  
-  ---
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4mpos-dev&layout=donut&langs_count=5&theme=dark"/>
-  </div>
-  
-  ---
+
 </div>
