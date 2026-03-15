@@ -24,10 +24,5 @@
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
-
-<div align="center">
-  <a href="https://github.com/G4rutti">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=c4mpos-dev&theme=dark&background=000000"/>
-</div>
     
 </div>
